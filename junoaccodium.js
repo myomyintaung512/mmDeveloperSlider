@@ -1,5 +1,5 @@
 /* ========================================================================
- * mmDeveloperSlider: junoaccodium.js v3.0.0
+ * mmDeveloperSlider: junoaccodium.js v1.0.5
  * http://github.com/myomyintaung512/mmDeveloperSlider
  * ========================================================================
  * Copyright 2012 Myo Myint Aung.
